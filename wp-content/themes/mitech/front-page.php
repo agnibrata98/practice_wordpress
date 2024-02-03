@@ -1,8 +1,6 @@
 <?php
     get_header();
 ?>
-<!-- agnibrata -->
-
 <div class="site-wrapper-reveal">
     <!--============ Infotechno Hero Startsdnchvswgh ============-->
     <?php
