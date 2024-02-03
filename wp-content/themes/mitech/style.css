@@ -1,0 +1,66 @@
+/*
+Theme Name: mitech
+Author: Agni
+Version: 1.0.0
+
+*/
+
+.comment-reply-title{
+    color:blue;
+}
+.comment-notes{
+    color: blue;
+}
+
+/* Form Container */
+.comment-respond {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+   
+   /* Form Title */
+   .comment-form h2 {
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+   }
+   
+   /* Form Input */
+   .comment-form input[type="text"],
+   .comment-form input[type="email"],
+   .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #333;
+   }
+   
+   /* Form Textarea */
+   .comment-respond textarea {
+    resize: vertical;
+    min-height: 150px;
+   }
+   
+   /* Form Submit Button */
+   .comment-form input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+   }
+   
+   .comment-form input[type="submit"]:hover {
+    background-color: #0056b3;
+   }

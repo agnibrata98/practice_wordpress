@@ -1,0 +1,69 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: February 3, 2024 6:43 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8
+WORDPRESS:	6.4.3
+PHP INFO:	8.2.4 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 42MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240203_mitech_44178c9ddd95165f1778_20240203064328_database.sql
+SQL FILE SIZE: 1.68MB (1760823)
+SQL FILE TIME: 2024-02-03 06:43:43
+SQL RUNTIME: 2.76 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/practice_wordpress
+ARCHIVE FILE: 20240203_mitech_44178c9ddd95165f1778_20240203064328_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	83MB
+STATS:	Dirs 582 | Files 4,368 | Total 4,950
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 33.24MB
+ARCHIVE RUNTIME: 10.72 sec.
+MEMORY STACK: 44MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.68MB
+INSTALLER FILE: 94.81KB
+ARCHIVE FILE: 33.24MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,689
+ACTUAL FILE/DIRECTORY COUNT: 5,690
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 10.74 sec.
+PEAK PHP MEMORY USED: 44MB
+DONE PROCESSING => 20240203_mitech 2024-02-03 06:43:50
+
